@@ -1,0 +1,12 @@
+body{
+    background-color:aliceblue;
+}
+ .title{
+    font-size: 35;
+ }
+
+ #webCam{
+    border: 2px solid lightblue;
+    width: 300;
+    height: 300;
+ }
